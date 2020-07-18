@@ -7,3 +7,5 @@ function showName(){
     return 50
     // return string
 }
+// 新增内容2
+const as = require('as');
